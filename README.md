@@ -1,6 +1,6 @@
-#Coingecko Price bot
+# Coingecko Price bot
 
-A Discord bot That fetch data from Coingecko API and shows the real time price
+A Discord bot that fetches and shows token data from Coingecko.
 
 ## Quickstart
 
